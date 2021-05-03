@@ -87,3 +87,5 @@ Site: https://www.devchallenge.com.br/ <br>
 
 <a href="https://www.instagram.com/devchallenge/"><img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png" width="30px" height="30px" alt="Instagram"></a>
 </div>
+
+> OBS: Foi usada outra API para a geração das imagens (aprovado pela comunidade)
