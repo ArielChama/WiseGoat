@@ -1,0 +1,66 @@
+/***
+    Criado e desenvolvido por Ariel chama
+    https://github.com/ArielChama
+****/
+
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Configs */
+body {
+    background-color: white;
+    font-family: Roboto;
+}
+
+/******* 
+    inicio
+*******/
+
+.container {
+    padding: 8rem 20rem 8rem 20rem;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-first {
+    padding-top: 7rem;
+}
+
+.title {
+    font-size: 4rem;
+    color: #BAA193;
+}
+
+.subtitle {
+    font-size: 8rem;
+    font-style: normal;
+    font-weight: bolder;
+    color: #72005F;
+    margin-bottom: 3rem;
+}
+
+.image-goat {
+    width: 25rem;
+}
+
+.button-ask-advice {
+    font-weight: 400;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 1.4rem;
+    background-color: #72005F;
+    text-decoration: none;
+    padding: 1.3rem 5rem;
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+}
+

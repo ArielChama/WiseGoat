@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://i.imgur.com/u3OlLYj.png" alt="Logo" width="1000">
 
-  <h3 align="center">WiseGoat by <a href="https://github.com/Lorenalgm">Lorena</a></h3>
+  <h3 align="center">WiseGoat by <a href="https://github.com/Lorenalgm">Lorena</a>- Desafio concluído :heavy_check_mark:</h3>
  <br />
   <p align="center">
      Site gerador de conselhos e imagens de bodes :)
